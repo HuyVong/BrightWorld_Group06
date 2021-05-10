@@ -8,7 +8,8 @@
 	1. Lưu Xuân Lộc  	(Student1295177)
 	2. Lê Tiến Đạt	(Student1295180)
 	3. Nguyễn Tố Quyên 	(Student1295699)
-  4. Vòng Thế Huy   (Student1302879)
+  	4. Vòng Thế Huy   (Student1302879)
+ 
 =======================================
 Documentations : https://github.com/HuyVong/BrightWorld_Group06/tree/main/Documentation
 =======================================
